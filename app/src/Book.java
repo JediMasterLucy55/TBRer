@@ -1,5 +1,3 @@
-package app.src.main;
-
 public class Book {
     
     String title;
@@ -11,7 +9,6 @@ public class Book {
     int realism;
 
     public Book(String title, int fellowship, int emotionalDamage, int brainPower, int romance, int coverArt, int realism) {
-        super();
         this.title = title;
         this.fellowship = fellowship;
         this.emotionalDamage = emotionalDamage;

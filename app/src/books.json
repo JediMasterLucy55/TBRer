@@ -1,503 +1,497 @@
 [
-    {
-        "title": "If You Could See the Sun",
-        "fellowhip": "2",
-        "emotionalDamage": "3",
-        "brainPower": "2",
-        "romance": "10",
-        "coverArt": "9",
-        "realism": "3"
-    },
-    {
-        "title": "Illusions of Fire",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-    {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    },
-        {
-        "title": "",
-        "fellowhip": "",
-        "emotionalDamage": "",
-        "brainPower": "",
-        "romance": "",
-        "coverArt": "",
-        "realism": ""
-    }
+  {
+    "title": "If You Could See the Sun",
+    "fellowship": 2,
+    "emd": 3,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 10,
+    "realism": 4
+  },
+  {
+    "title": "Ilusions of Fire",
+    "fellowship": 1,
+    "emd": 3,
+    "brainyness": 4,
+    "romance": 5,
+    "cover": 9,
+    "realism": 2
+  },
+  {
+    "title": "Messy Perfect",
+    "fellowship": 10,
+    "emd": 6,
+    "brainyness": 5,
+    "romance": 3,
+    "cover": 8,
+    "realism": 8
+  },
+  {
+    "title": "The Lunar Chronicles",
+    "fellowship": 2,
+    "emd": 4,
+    "brainyness": 5,
+    "romance": 10,
+    "cover": 10,
+    "realism": 1
+  },
+  {
+    "title": "Hani and Ishu's Guide to Fake Dating",
+    "fellowship": 10,
+    "emd": 5,
+    "brainyness": 4,
+    "romance": 10,
+    "cover": 9,
+    "realism": 10
+  },
+  {
+    "title": "Rise to the Sun",
+    "fellowship": 10,
+    "emd": 3,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 7,
+    "realism": 9
+  },
+  {
+    "title": "This Must Be the Place",
+    "fellowship": 10,
+    "emd": 4,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 6,
+    "realism": 6
+  },
+  {
+    "title": "In the Shallows",
+    "fellowship": 10,
+    "emd": 3,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 10,
+    "realism": 1
+  },
+  {
+    "title": "Cafe con Lychee",
+    "fellowship": 8,
+    "emd": 4,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 7,
+    "realism": 9
+  },
+  {
+    "title": "I think I Love You",
+    "fellowship": 9,
+    "emd": 3,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 5,
+    "realism": 7
+  },
+  {
+    "title": "This Will Be Fun",
+    "fellowship": 9,
+    "emd": 3,
+    "brainyness": 4,
+    "romance": 9,
+    "cover": 7,
+    "realism": 2
+  },
+  {
+    "title": "Throne of Glass",
+    "fellowship": 1,
+    "emd": 1,
+    "brainyness": 3,
+    "romance": 10,
+    "cover": 7,
+    "realism": 1
+  },
+  {
+    "title": "The Inheritance Games",
+    "fellowship": 1,
+    "emd": 2,
+    "brainyness": 4,
+    "romance": 7,
+    "cover": 4,
+    "realism": 5
+  },
+  {
+    "title": "The Reappearance of Rachel Price",
+    "fellowship": 1,
+    "emd": 4,
+    "brainyness": 5,
+    "romance": 2,
+    "cover": 1,
+    "realism": 6
+  },
+  {
+    "title": "Kill Creatures",
+    "fellowship": 3,
+    "emd": 3,
+    "brainyness": 5,
+    "romance": 4,
+    "cover": 8,
+    "realism": 4
+  },
+  {
+    "title": "Catch Your Death",
+    "fellowship": 2,
+    "emd": 1,
+    "brainyness": 3,
+    "romance": 3,
+    "cover": 3,
+    "realism": 3
+  },
+  {
+    "title": "Love & Gelato",
+    "fellowship": 3,
+    "emd": 4,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 4,
+    "realism": 8
+  },
+  {
+    "title": "Hot Dog Girl",
+    "fellowship": 10,
+    "emd": 5,
+    "brainyness": 4,
+    "romance": 9,
+    "cover": 6,
+    "realism": 7
+  },
+  {
+    "title": "True Love and Other Impossible Odds",
+    "fellowship": 10,
+    "emd": 5,
+    "brainyness": 3,
+    "romance": 10,
+    "cover": 9,
+    "realism": 6
+  },
+  {
+    "title": "You Started It",
+    "fellowship": 4,
+    "emd": 3,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 7,
+    "realism": 9
+  },
+  {
+    "title": "See You Yesterday",
+    "fellowship": 5,
+    "emd": 3,
+    "brainyness": 2,
+    "romance": 10,
+    "cover": 7,
+    "realism": 3
+  },
+  {
+    "title": "Anatomy",
+    "fellowship": 1,
+    "emd": 3,
+    "brainyness": 4,
+    "romance": 10,
+    "cover": 8,
+    "realism": 2
+  },
+  {
+    "title": "If We Never End",
+    "fellowship": 2,
+    "emd": 5,
+    "brainyness": 3,
+    "romance": 7,
+    "cover": 10,
+    "realism": 3
+  },
+  {
+    "title": "Otherworldly",
+    "fellowship": 9,
+    "emd": 4,
+    "brainyness": 3,
+    "romance": 10,
+    "cover": 8,
+    "realism": 2
+  },
+  {
+    "title": "The Weaver Bride",
+    "fellowship": 3,
+    "emd": 4,
+    "brainyness": 4,
+    "romance": 9,
+    "cover": 7,
+    "realism": 2
+  },
+  {
+    "title": "A Feast for the Eyes",
+    "fellowship": 10,
+    "emd": 5,
+    "brainyness": 4,
+    "romance": 7,
+    "cover": 8,
+    "realism": 1
+  },
+  {
+    "title": "A Magic Steeped In Poision",
+    "fellowship": 1,
+    "emd": 2,
+    "brainyness": 4,
+    "romance": 7,
+    "cover": 10,
+    "realism": 1
+  },
+  {
+    "title": "A Thousand Pieces of You",
+    "fellowship": 4,
+    "emd": 5,
+    "brainyness": 4,
+    "romance": 9,
+    "cover": 8,
+    "realism": 4
+  },
+  {
+    "title": "Nightbreaker",
+    "fellowship": 2,
+    "emd": 4,
+    "brainyness": 4,
+    "romance": 5,
+    "cover": 6,
+    "realism": 2
+  },
+  {
+    "title": "Not Your Sidekick",
+    "fellowship": 10,
+    "emd": 6,
+    "brainyness": 3,
+    "romance": 7,
+    "cover": 5,
+    "realism": 3
+  },
+  {
+    "title": "Let Them Stare",
+    "fellowship": 10,
+    "emd": 5,
+    "brainyness": 2,
+    "romance": 8,
+    "cover": 7,
+    "realism": 3
+  },
+  {
+    "title": "Rez Ball",
+    "fellowship": 1,
+    "emd": 4,
+    "brainyness": 2,
+    "romance": 7,
+    "cover": 4,
+    "realism": 10
+  },
+  {
+    "title": "Middletown",
+    "fellowship": 10,
+    "emd": 6,
+    "brainyness": 4,
+    "romance": 6,
+    "cover": 4,
+    "realism": 8
+  },
+  {
+    "title": "This Time Will Be Different",
+    "fellowship": 8,
+    "emd": 5,
+    "brainyness": 4,
+    "romance": 6,
+    "cover": 8,
+    "realism": 7
+  },
+  {
+    "title": "Beth is Dead",
+    "fellowship": 4,
+    "emd": 5,
+    "brainyness": 5,
+    "romance": 8,
+    "cover": 6,
+    "realism": 5
+  },
+  {
+    "title": "One Killer Problem",
+    "fellowship": 10,
+    "emd": 3,
+    "brainyness": 3,
+    "romance": 7,
+    "cover": 7,
+    "realism": 4
+  },
+  {
+    "title": "The Dead of Summer",
+    "fellowship": 2,
+    "emd": 3,
+    "brainyness": 4,
+    "romance": 4,
+    "cover": 7,
+    "realism": 4
+  },
+  {
+    "title": "The Deep Well",
+    "fellowship": 6,
+    "emd": 3,
+    "brainyness": 3,
+    "romance": 6,
+    "cover": 8,
+    "realism": 4
+  },
+  {
+    "title": "Ender's Game",
+    "fellowship": 1,
+    "emd": 3,
+    "brainyness": 6,
+    "romance": 3,
+    "cover": 4,
+    "realism": 3
+  },
+  {
+    "title": "I, Robot",
+    "fellowship": 2,
+    "emd": 3,
+    "brainyness": 7,
+    "romance": 2,
+    "cover": 3,
+    "realism": 4
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "fellowship": 2,
+    "emd": 4,
+    "brainyness": 8,
+    "romance": 4,
+    "cover": 7,
+    "realism": 2
+  },
+  {
+    "title": "1984",
+    "fellowship": 3,
+    "emd": 5,
+    "brainyness": 8,
+    "romance": 2,
+    "cover": 2,
+    "realism": 5
+  },
+  {
+    "title": "All Better Now",
+    "fellowship": 3,
+    "emd": 7,
+    "brainyness": 5,
+    "romance": 4,
+    "cover": 6,
+    "realism": 5
+  },
+  {
+    "title": "The Six",
+    "fellowship": 5,
+    "emd": 2,
+    "brainyness": 7,
+    "romance": 1,
+    "cover": 3,
+    "realism": 10
+  },
+  {
+    "title": "Death by Black Hole",
+    "fellowship": 4,
+    "emd": 1,
+    "brainyness": 8,
+    "romance": 1,
+    "cover": 8,
+    "realism": 9
+  },
+  {
+    "title": "Half-Drawn Boy",
+    "fellowship": 10,
+    "emd": 7,
+    "brainyness": 5,
+    "romance": 10,
+    "cover": 8,
+    "realism": 9
+  },
+  {
+    "title": "Radio Silence",
+    "fellowship": 10,
+    "emd": 8,
+    "brainyness": 6,
+    "romance": 10,
+    "cover": 10,
+    "realism": 9
+  },
+  {
+    "title": "I Can't Even Think Straight",
+    "fellowship": 9,
+    "emd": 6,
+    "brainyness": 5,
+    "romance": 9,
+    "cover": 6,
+    "realism": 9
+  },
+  {
+    "title": "Fade Into You",
+    "fellowship": 9,
+    "emd": 8,
+    "brainyness": 6,
+    "romance": 10,
+    "cover": 8,
+    "realism": 8
+  },
+  {
+    "title": "Hell Followed With Us",
+    "fellowship": 10,
+    "emd": 8,
+    "brainyness": 5,
+    "romance": 9,
+    "cover": 8,
+    "realism": 2
+  },
+  {
+    "title": "An Expanse of Blue",
+    "fellowship": 2,
+    "emd": 6,
+    "brainyness": 5,
+    "romance": 7,
+    "cover": 7,
+    "realism": 7
+  },
+  {
+    "title": "In Between Days",
+    "fellowship": 6,
+    "emd": 9,
+    "brainyness": 6,
+    "romance": 7,
+    "cover": 5,
+    "realism": 8
+  },
+  {
+    "title": "Loveless",
+    "fellowship": 10,
+    "emd": 9,
+    "brainyness": 7,
+    "romance": 5,
+    "cover": 8,
+    "realism": 9
+  },
+  {
+    "title": "Invisible",
+    "fellowship": 3,
+    "emd": 8,
+    "brainyness": 6,
+    "romance": 4,
+    "cover": 5,
+    "realism": 8
+  },
+  {
+    "title": "Practice Girl",
+    "fellowship": 4,
+    "emd": 9,
+    "brainyness": 6,
+    "romance": 5,
+    "cover": 6,
+    "realism": 7
+  }
 ]

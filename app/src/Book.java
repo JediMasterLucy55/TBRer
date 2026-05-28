@@ -1,4 +1,4 @@
-package src.main;
+package app.src.main;
 
 public class Book {
     

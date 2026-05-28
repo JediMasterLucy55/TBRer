@@ -3,8 +3,8 @@ import com.google.gson.Gson;
 
 public class Chooser {
 
-    public Chooser() {
-        super();
-    }
+    public Chooser 
+
+
 
 }
